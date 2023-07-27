@@ -81,7 +81,6 @@
 			<p>The Joy of Svelte</p>
 			<p class="text-3xl">Shriji Kondan Elangovan</p>
 		</div>
-		<Notes>Don't make eye contact</Notes>
 	</Slide>
 	<Slide>
 		<div>
@@ -102,6 +101,7 @@
 				<li>Built-in stores.</li>
 			</ul>
 		</div>
+		<Notes>Apart from all these things, Svelte has no VDOM, build tool is vite</Notes>
 	</Slide>
 
 	<Slide>Basics</Slide>
@@ -146,7 +146,7 @@
 			<ul class="text-3xl text-left">
 				<li>Nextjs is to react is what Sveltekit is to Svelte</li>
 				<li>Svelte is a component framework, write reusable components</li>
-				<li>Routing, SSR, CSR</li>
+				<li>Routing, SSR, CSR and other goodies</li>
 				<li>Edge friendly deployment with use of Adapters</li>
 			</ul>
 		</div>
@@ -201,7 +201,7 @@
 	<Slide>
 		<div class="grid gap-10 justify-center">
 			<div>
-				<p>My biased thoughts...</p>
+				<p>My biased thoughts and opinions...</p>
 			</div>
 			<ul class="text-3xl text-left grid gap-4">
 				<li>
@@ -220,7 +220,7 @@
 	<Slide animate>
 		<div class="grid gap-10 justify-center">
 			<div>
-				<p>My biased thoughts...</p>
+				<p>My biased thoughts and opinions...</p>
 			</div>
 			<ul class="text-3xl text-left grid gap-4">
 				<li>
