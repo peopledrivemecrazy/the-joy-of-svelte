@@ -161,6 +161,8 @@
 				<li>Dynamic routing</li>
 				<li>Accessing data via page store</li>
 			</ul>
+			<a class="text-lg text-left" href="https://github.com/peopledrivemecrazy/torontojs-rest" target="_blank">github</a>
+
 		</div>
 	</Slide>
 	<Slide>
@@ -171,6 +173,7 @@
 			<ul class="text-3xl text-left w-[600px]">
 				<li>Todo app - progressing enhancement</li>
 			</ul>
+			<a class="text-lg text-left" href="https://github.com/peopledrivemecrazy/torontojs-todo" target="_blank">github</a>
 		</div>
 	</Slide>
 
